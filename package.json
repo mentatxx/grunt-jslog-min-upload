@@ -1,0 +1,40 @@
+{
+  "name": "grunt-jslog-min-upload",
+  "version": "1.0.0",
+  "description": "Grunt task to upload .min files to JsLog.me service",
+  "main": "index.js",
+  "keywords": [
+    "grunt",
+    "gruntplugin",
+    "jslog",
+    "minified",
+    "min",
+    "upload"
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "homepage": "https://github.com/mentatxx/grunt-jslog-min-upload",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mentatxx/grunt-jslog-min-upload.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mentatxx/grunt-jslog-min-upload/issues"
+  },
+  "licenses": [
+    {
+      "type": "Apache 2.0",
+      "url": "https://github.com/mentatxx/grunt-jslog-min-upload/blob/master/LICENSE"
+    }
+  ],
+  "author": "Alexey Petushkov",
+  "license": "Apache 2.0",
+  "devDependencies": {
+    "chalk": "^0.5.1",
+    "restler": "^3.2.2"
+  }
+}
